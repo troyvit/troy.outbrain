@@ -16,7 +16,7 @@ This README is for anybody who works with me.
 Smooth the way for brilliant people to do brilliant things.
 
 ### Job and Roles
-- I am the Technical Project Lead for the TAM team. As such I:
+I am the Technical Project Lead for the TAM team. As such I:
 - Help TAMs create great tools and write some tools myself. 
 - build internal tools, lead projects for the building of other tools, and keep aware of other TAM tool-building projects to help us avoid redundancy. 
 - Help standardize our languages, toolsets and APIs with developers on the TAM team.
@@ -35,30 +35,30 @@ I work from home in Colorado. I start work around 9:30ET and end around 7:30-8PM
 ### Feedback
 I serve you, not the other way around. That means I'm accountable to you. That accountability depends on your feedback.
 
-The purpose of positive feedback isn't to make a person feel good but stimulate that person to do more of that good thing. The purpose of negative feedback is to do the opposite. If I do something that helps Outbrain tell me so I can do more of it. If I do something that doesn't help Outbrain tell me so I can adjust it.
+The purpose of positive feedback isn't to make a person feel good but stimulate that person to do more of that good thing. The purpose of negative feedback is to do the opposite. If I do something that helps you, our team, or Outbrain tell me so I can do more of it. If I do something that doesn't help tell me so I can adjust it.
 
 I try to keep ego out of work, so you should be able to tell me anything. My hope is that I can do the same. I promise that any negative feedback I give is in the interest of helping you, the team, and Outbrain.
 
 They key to valuable feedback is to keep it constant. If I'm a part of anybody's review I strive to make sure that no information I give is surprising.
 
 ### Features and bugs
-The important thing is that we do what we say we're going to do. One of my big weaknesses is not following through administratively 100% of the time. Call me on that and I'll be sure to get you the paperwork. If you don't do what you say you'll do I promise tell you.
+The important thing is that we do what we say we're going to do. One of my big weaknesses is not following through administratively 100% of the time. Call me on that and I'll be sure to get you the paperwork. If you don't do what you say you'll do I promise to tell you.
 
 I like working alone but that's counterproductive. Call me on that.
 
-I like a fight. Just like a forest needs fire to rejuvinate conflict is crucial for teams to remain fresh.
+I like a fight. Just like a forest needs fire to rejuvinate, conflict is crucial for teams to remain fresh.
 
 I won't do a task if I don't know why I'm doing it and I hope you feel the same way.
 
 ## Long term goals
-- Create a regular development cycle that multiple teams follow
-- Rise by lifting others
-- Use my role to rigorously defend the lighthouse
+- Create a regular development cycle that multiple TAM teams follow.
+- Use my role to rigorously defend the [Lighthouse] (https://www.outbrain.com/blog/you-are-what-you-recommend-value-of-trust/).
+- Rise by lifting others.
 
 ## Short term goals
-- Spread the usage of internally written APIs to the rest of the TAM team
-- Gain dev time for TAM teams around the world
-- Plan the TAM hackathon
+- Spread the usage of internally written APIs to the TAM team members who can benefit most from them.
+- Gain dev time for TAM teams around the world.
+- Plan the TAM hackathon.
 
 ## What I'm studying
 Servant leadership
