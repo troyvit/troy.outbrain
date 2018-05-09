@@ -6,7 +6,7 @@ Last updated 2018-05-09
 
 Welcome to the user manual for Troy. It doesn't replace getting to know me but given my history at Outbrain and unique place in the TAM team it helps you understand my place in our organization as Technical Project Lead (TPL) and how I can help you succeed.
 
-##D isclaimers
+## Disclaimers
 Since I wrote this document a lot of my biases are baked into it. It doesn't apply to any other Outbrainer. Call me on anything you see here that isn't true.
 
 ## Audience
