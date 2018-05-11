@@ -1,8 +1,8 @@
 # Technical Project Lead README
 Written by Troy Vitullo, Technical Project Lead @[Outbrain](https://www.outbrain.com)
 
-Version: 0.4
-Last updated 2018-05-09
+Version: 0.5
+Last updated 2018-05-11
 
 Welcome to the user manual for Troy. It doesn't replace getting to know me but given my history at Outbrain and unique place in the TAM team it helps you understand my place in our organization as Technical Project Lead (TPL) and how I can help you succeed.
 
@@ -18,7 +18,7 @@ I smooth the way for brilliant people to do brilliant things.
 ### Job and roles
 I am the Technical Project Lead for the TAM team. As such I:
 - Help TAMs create great tools and write some tools myself. 
-- Build internal tools, lead developers who build tools, and keep aware of other TAM tool-building projects to help us avoid redundancy. 
+- Build internal tools, lead developers who build tools, and keep aware of other internal projects to help us avoid redundancy. 
 - Help standardize our languages, toolsets and APIs with developers on the TAM team.
 - Work with R&D and Prod teams to give feedback on APIs they build. 
 - Serve as a technical mentor to the TAM team and train them on using our tools.
@@ -30,7 +30,7 @@ I started at Outbrain in 2011 as an Account Manager (AM). That lasted a few mont
 
 ## Working with me
 ### Habits and schedule
-I work from home in Colorado. I start work around 9:30ET and end around 7:30-8PM ET, with an hour lunch. I'm most available on HipChat, then g-chat, then email. You can call me any time although if I don't recognize the number I don't answer. You can also text me. Right now I have no set schedule for coming into the NYC office. I can come on demand if there is enough need to justify the travel expense.
+I work from home in Colorado. I start work around 9:30 a.m. ET and end at 7:30 to 8:00 p.m. ET, with an hour lunch. I'm most available on HipChat, then g-chat, then email. You can call me any time although if I don't recognize the number I don't answer. You can also text me. Right now I have no set schedule for coming into the NYC office. I can come on demand if there is enough need to justify the travel expense.
 
 ### Meetings
 Please don't invite me to a meeting unless I can provide direct action as a result of that meeting.
