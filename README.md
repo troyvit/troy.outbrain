@@ -55,7 +55,7 @@ I won't do a task if I don't know why I'm doing it and I hope you feel the same 
 
 ## Long term goals
 - Create a regular development cycle that multiple TAM teams follow.
-- Use my role to rigorously defend the [Lighthouse] (https://www.outbrain.com/blog/you-are-what-you-recommend-value-of-trust/).
+- Use my role to rigorously defend the [Lighthouse](https://www.outbrain.com/blog/you-are-what-you-recommend-value-of-trust/).
 - Rise by lifting others.
 
 ## Short term goals
