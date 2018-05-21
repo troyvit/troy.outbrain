@@ -65,7 +65,6 @@ I won't do a task if I don't know why I'm doing it and I hope you feel the same 
 
 ## What I'm studying
 Servant leadership
-Radical candor
 
 ## Hobbies
 Running, gardening, biking around town, travel, gym climbing
