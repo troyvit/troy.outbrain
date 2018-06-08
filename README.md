@@ -9,21 +9,18 @@ Welcome to the user manual for Troy. It doesn't replace getting to know me but g
 ## Disclaimers
 Since I wrote this document a lot of my biases are baked into it. It doesn't apply to any other Outbrainer. If you see anything here that isn't true let me know.
 
-## Audience
-This README is for anybody who works with me.
-
 ## My mission
 I smooth the way for brilliant people to do brilliant things.
 
 ### Job and roles
-I am the Technical Project Lead for the TAM team. As such I:
-- Help TAMs create great tools and write some tools myself. 
-- Build internal tools, lead developers who build tools, and keep aware of other internal projects to help us avoid redundancy. 
-- Help standardize our languages, toolsets and APIs with developers on the TAM team.
-- Work with R&D and Prod teams to give feedback on APIs they build. 
-- Serve as a technical mentor to the TAM team and train them on using our tools.
+I am the Technical Project Lead for the TAM team. In that role I:
+- Help TAMs create great tools 
+- Build internal tools, lead developers who build tools, and keep aware of other internal projects to help us avoid redundancy
+- Help standardize our languages, toolsets and APIs with developers on the TAM team
+- Work with R&D and Prod teams to give feedback on APIs they build
+- Serve as a technical mentor to the TAM team and train them on using our tools
 
-Our user base currently consists of TAMs, AMs, Business Operations and Product Managers. We want to expand that to BI, Finance, Product and R&D.
+Our users are AMs, Global Operations and Product Managers. We want to expand that to BI, Finance, Product and R&D.
 
 ## History
 I started at Outbrain in 2011 as an Account Manager (AM). That lasted a few months before it became clear that I was much better at helping other AMs than I was at being one. In response Outbrain created the Technical Account Manager (TAM) position. As a TAM I co-founded and lead the Sales Engineering and QA positions within the TAM group. In 2015 I grew into the TAM team lead position. From there I moved to the Technical Project Lead I am today.
@@ -49,7 +46,7 @@ The important thing is that we do what we say we're going to do. One of my big c
 
 I like working alone but that's counterproductive. Call me on that.
 
-I like a fight. Just like a forest needs fire to rejuvinate, conflict is crucial for teams to remain fresh.
+I like a fight. Just like a forest needs fire to rejuvinate, conflict is crucial for teams to grow.
 
 I won't do a task if I don't know why I'm doing it and I hope you feel the same way.
 
