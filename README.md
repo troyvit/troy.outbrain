@@ -17,13 +17,13 @@ I am the Technical Project Lead for the TAM team. In that role I:
 - Help TAMs create great tools 
 - Build internal tools, lead developers who build tools, and keep aware of other internal projects to help us avoid redundancy
 - Help standardize our languages, toolsets and APIs with developers on the TAM team
-- Work with R&D and Prod teams to give feedback on APIs they build
+- Work with R&D and Product teams to give feedback on APIs they build
 - Serve as a technical mentor to the TAM team and train them on using our tools
 
-Our users are AMs, Global Operations and Product Managers. We want to expand that to BI, Finance, Product and R&D.
+Our users are Account Managers, Global Operations and Product Managers. We want to expand that to BI, Finance, Product and R&D.
 
 ## History
-I started at Outbrain in 2011 as an Account Manager (AM). That lasted a few months before it became clear that I was much better at helping other AMs than I was at being one. In response Outbrain created the Technical Account Manager (TAM) position. As a TAM I co-founded and lead the Sales Engineering and QA positions within the TAM group. In 2015 I grew into the TAM team lead position. From there I moved to the Technical Project Lead I am today.
+I started at Outbrain in 2011 as an Account Manager (AM). I found I was much better at helping AMs find quick solutions to their problems. In response Outbrain created the Technical Account Manager (TAM) position. As a TAM I co-founded and lead the Sales Engineering and QA positions within the TAM group. In 2015 I grew into the TAM team lead position. From there I moved to the Technical Project Lead I am today.
 
 ## Working with me
 ### Habits and schedule
@@ -56,7 +56,7 @@ I won't do a task if I don't know why I'm doing it and I hope you feel the same 
 - Rise by lifting others.
 
 ## Short term goals
-- Spread the usage of internally written APIs to the TAM team members who can benefit most from them.
+- Spread the usage of internally written APIs to the TAM team members so they can build cool stuff with them.
 - Gain dev time for TAM teams around the world.
 - Plan the TAM hackathon.
 
@@ -65,5 +65,3 @@ Servant leadership
 
 ## Hobbies
 Running, gardening, biking around town, travel, gym climbing
-
-## 2018 Word of the year: Consistency
