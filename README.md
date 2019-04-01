@@ -8,13 +8,13 @@ Welcome to the user manual for Troy. It doesn't replace getting to know me but s
 
 ### Job and roles
 I am the Technical Project Lead for the GTO team. In that role I:
-- Help GTOs create great tools,
-- Help the Efficiencies Team build tools,
+- Help GTOs create great internal tools,
+- Help the Efficiencies Team build internal tools,
+- Write and maintain scripts that automate more complex bulk jobs,
 - Keep abreast of other internal projects to help us avoid redundancy,
-- Run some of our more complex automation jobs,
 - Help standardize our languages, toolsets and APIs with developers on the GTO team,
 - Work with R&D and Product teams to give feedback on APIs they build, and
-- Serve as a technical mentor to the GTO team and train them on using our tools
+- Serve as a technical mentor to the GTO team and train them on some of Outbrain's internals.
 
 Our users are Account Managers, Global Operations, Account Services, and Product Managers. We want to expand that to help BI, Finance, Product and R&D.
 
@@ -34,9 +34,11 @@ One of my big challenges is following through with administrative tasks. Call me
 - Organize a team to rewrite our automation scripts in python or node.
 
 ## Short term goals
-- Spread the usage of internally written APIs to the GTO team members so they can build cool stuff with them.
+- Spread the usage of internal APIs to the GTO team members so they can build cool stuff with them.
 - Gain dev time for GTOs around the world.
 - Help make a new GTO logo.
+- Update the OB Friend extension.
+- Update OB_1.
 
 ## What I'm studying
 Informally studying the positive role bacteria plays in soil health.
