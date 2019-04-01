@@ -16,7 +16,7 @@ I am the Technical Project Lead for the GTO team. In that role I:
 - Work with R&D and Product teams to give feedback on APIs they build, and
 - Serve as a technical mentor to the GTO team and train them on some of Outbrain's internals.
 
-Our users are Account Managers, Global Operations, Account Services, and Product Managers. We want to expand that to help BI, Finance, Product and R&D.
+Our users are Account Managers, Customer Success Managers, Business, and Account Services. We want to expand that to help BI, Finance, Product and R&D.
 
 ## History
 I started at Outbrain in 2011 as an Account Manager (AM). I found I was much better at helping AMs find quick solutions to their problems. In response Outbrain created the Technical Account Manager (TAM) position. As a TAM I co-founded and lead the Sales Engineering and QA positions within the TAM group. In 2015 I grew into the TAM team lead position. From there I became Technical Project Lead and the TAMs became Global Technical Operations (GTO).
